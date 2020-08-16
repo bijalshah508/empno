@@ -1,0 +1,18 @@
+#include<stdio.h>
+main()
+{
+char name[30];
+int age=0;
+int num=0;
+int salary=0;
+printf("enter ur name");
+scanf("%s",name);
+printf(" age");
+scanf("%d",&age);
+printf("phone num");
+scanf("%d",&num);
+
+printf("salary");
+scanf("%d",&salary);
+printf(" name %s age%d num%d salary%D"nae,&age,&num,&salary);
+}
